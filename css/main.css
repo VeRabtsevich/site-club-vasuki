@@ -524,11 +524,11 @@ body {
   gap: 20px;
 }
 .stages-item::before {
-  content: url(./img/main/aero.png);
+  content: url(./../img/main/aero.png);
   position: absolute;
   right: -69px;
   bottom: 0;
-  z-index: 2;
+  z-index: 3;
 }
 .stages-item::after {
   content: url(./../img/main/img-stage-vector.svg);
