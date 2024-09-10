@@ -531,7 +531,7 @@ body {
   z-index: 2;
 }
 .stages-item::after {
-  content: url(./img/main/img-stage-vector.svg);
+  content: url(./../img/main/img-stage-vector.svg);
   position: absolute;
   right: -45px;
   bottom: 61px;
@@ -625,7 +625,7 @@ body {
 
 .stage {
   position: relative;
-  background-image: url(./img/main/img-stage-fon-2.png);
+  background-image: url(./../img/main/img-stage-fon-2.png);
   font-family: "Golos Text", sans-serif;
   font-weight: 500;
   font-size: 20px;
